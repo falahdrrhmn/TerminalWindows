@@ -200,3 +200,28 @@ Mode                 LastWriteTime         Length Name
 -a----         9/26/2022  10:32 AM         655366 coba.py
 ```
 
+## Cara Ngehapus File atau Folder 
+
+ngehapus file
+
+```ssh
+PS D:\coba\asep> ls
+
+
+    Directory: D:\coba\asep
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----         9/26/2022  10:32 AM         655366 coba.py
+
+
+PS D:\coba\asep> rm .\coba.py
+PS D:\coba\asep> ls
+PS D:\coba\asep>
+
+
+```
+
+
+
