@@ -4,3 +4,11 @@
 
 <br><br>
 
+## Cara Cek Direktory
+```ssh
+PS D:\asep> pwd
+
+Path
+----
+D:\asep
+```
