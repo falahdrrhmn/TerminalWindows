@@ -12,3 +12,10 @@ Path
 ----
 D:\asep
 ```
+
+## Cara Tau User
+```ssh
+D:\asep> whoami
+desktop-9eo0j5l\lenovo
+D:\asep>
+```
