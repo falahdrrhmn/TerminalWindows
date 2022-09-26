@@ -219,8 +219,25 @@ Mode                 LastWriteTime         Length Name
 PS D:\coba\asep> rm .\coba.py
 PS D:\coba\asep> ls
 PS D:\coba\asep>
+```
+
+Ngehapus Folder
+
+```ssh
+PS D:\coba> ls
 
 
+    Directory: D:\coba
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----         9/26/2022  10:33 AM                asep
+
+
+PS D:\coba> rm .\asep\
+PS D:\coba> ls
+PS D:\coba>
 ```
 
 
