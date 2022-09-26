@@ -20,6 +20,32 @@ desktop-9eo0j5l\lenovo
 D:\asep>
 ```
 
+## Cara Masuk ke Direktori 
+```ssh
+PS D:\coba> ls
+
+
+    Directory: D:\coba
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----         9/26/2022  10:23 AM                asep
+
+
+PS D:\coba> cd .\asep\
+PS D:\coba\asep>
+```
+
+
+## Cara Kembali ke Direktori Sebelumnya
+```ssh
+PS D:\coba> cd .\asep\
+PS D:\coba\asep> cd ..
+PS D:\coba>
+```
+
+
 ## Cara Kembali ke Direktori Pucuk
 ```ssh
 PS C:\Users\Lenovo> cd ../..
@@ -100,5 +126,24 @@ d--hs-          4/5/2021   4:15 PM                $RECYCLE.BIN
 d--hs-         9/13/2022   6:28 AM                System Volume Information
 -a-hs-          4/5/2021   4:11 PM            520 desktop.ini
 -a-hs-         2/22/2022  11:19 AM          12288 DumpStack.log.tmp
+```
+
+## Cara Bikin Folder
+```ssh
+PS D:\coba> ls
+PS D:\coba> mkdir asep
+
+
+    Directory: D:\coba
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----         9/26/2022  10:23 AM                asep
+```
+
+## Cara Bikin File 
+```ssh
+
 ```
 
