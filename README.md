@@ -186,6 +186,17 @@ d-----         9/26/2022  10:23 AM                asep
 
 ## Cara Bikin File 
 ```ssh
+PS D:\coba\asep> ls
+PS D:\coba\asep> fsutil file createnew coba.py 655366
+File D:\coba\asep\coba.py is created
+PS D:\coba\asep> ls
 
+
+    Directory: D:\coba\asep
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----         9/26/2022  10:32 AM         655366 coba.py
 ```
 
