@@ -20,45 +20,6 @@ desktop-9eo0j5l\lenovo
 D:\asep>
 ```
 
-## Cara Masuk ke Direktori 
-```ssh
-PS D:\coba> ls
-
-
-    Directory: D:\coba
-
-
-Mode                 LastWriteTime         Length Name
-----                 -------------         ------ ----
-d-----         9/26/2022  10:23 AM                asep
-
-
-PS D:\coba> cd .\asep\
-PS D:\coba\asep>
-```
-
-
-## Cara Kembali ke Direktori Sebelumnya
-```ssh
-PS D:\coba> cd .\asep\
-PS D:\coba\asep> cd ..
-PS D:\coba>
-```
-
-
-## Cara Kembali ke Direktori Pucuk
-```ssh
-PS C:\Users\Lenovo> cd ../..
-PS C:\>
-```
-
-## Cara Pindah Direktori C ke D dll
-```ssh
-PS C:\> D:
-PS D:\> E:
-PS E:\>
-```
-
 ## Cara Tau Isi Direktory
 ```ssh
 PS E:\> ls
@@ -102,6 +63,48 @@ d--hs-         9/13/2022   6:28 AM                System Volume Information
 -a-hs-         2/22/2022  11:19 AM          12288 DumpStack.log.tmp
 ```
 
+cara cek direktoi tapi make tree
+
+```ssh
+PS E:\Document> tree
+Folder PATH listing for volume Data
+Volume serial number is E8D1-8FE5
+E:.
+├───Corel
+│   ├───Corel Content
+│   │   ├───Fills
+│   │   └───Trays
+│   ├───Corel PHOTO-PAINT X7 Samples
+│   └───CorelDRAW X7 Samples
+├───FD MB ARIN
+│   ├───album
+│   ├───brina's
+│   │   └───Saved Pictures
+│   ├───game
+│   │   ├───build
+│   │   │   ├───classes
+│   │   │   │   └───com
+│   │   │   │       └───zetcode
+│   │   │   ├───empty
+│   │   │   └───generated-sources
+│   │   │       └───ap-source-output
+│   │   ├───dist
+│   │   ├───nbproject
+│   │   │   └───private
+│   │   │       └───profiler
+│   │   ├───src
+│   │   │   └───com
+│   │   │       └───zetcode
+│   │   └───test
+│   ├───oral presentation
+│   └───ub 18
+│       ├───jurnal
+│       │   └───dokmor
+│       └───ppt
+└───RT
+PS E:\Document>
+```
+
 ## Cara Biar Terminal Bersih
 ```ssh
 PS E:\> ls
@@ -126,6 +129,45 @@ d-----         9/23/2022   8:58 PM                WUDownloadCache
 
 
 PS E:\> clear
+```
+
+## Cara Masuk ke Direktori 
+```ssh
+PS D:\coba> ls
+
+
+    Directory: D:\coba
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----         9/26/2022  10:23 AM                asep
+
+
+PS D:\coba> cd .\asep\
+PS D:\coba\asep>
+```
+
+
+## Cara Kembali ke Direktori Sebelumnya
+```ssh
+PS D:\coba> cd .\asep\
+PS D:\coba\asep> cd ..
+PS D:\coba>
+```
+
+
+## Cara Kembali ke Direktori Pucuk
+```ssh
+PS C:\Users\Lenovo> cd ../..
+PS C:\>
+```
+
+## Cara Pindah Direktori C ke D dll
+```ssh
+PS C:\> D:
+PS D:\> E:
+PS E:\>
 ```
 
 ## Cara Bikin Folder
