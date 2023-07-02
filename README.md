@@ -13,11 +13,6 @@ Sementara itu, Terminal pada Windows 11 adalah alat yang mendukung berbagai shel
 
 Perbedaan dalam perintah yang dapat dijalankan di CMD dan Terminal mungkin disebabkan oleh perbedaan interpreter perintah yang digunakan. Misalnya, perintah "clear" umumnya digunakan untuk membersihkan tampilan konsol di lingkungan Linux, dan di Terminal, Anda mungkin menggunakan shell yang mendukung perintah tersebut, seperti bash. Di CMD, perintah yang sebanding untuk membersihkan tampilan adalah "cls" (clear screen) bukan "clear".
 
-Perlu dicatat bahwa fitur dan fungsionalitas CMD dan Terminal pada Windows 11 terus berkembang, dan ada kemungkinan perubahan di masa depan yang memungkinkan lebih banyak perintah dan keseragaman antara keduanya.
-
-
-
-
 </p>
 
 
