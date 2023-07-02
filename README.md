@@ -4,6 +4,23 @@
 
 <br><br>
 
+## Perbedaan terminal dan cmd pada windows 
+<p>Pada Windows 11, Command Prompt (CMD) dan Terminal adalah dua alat yang berbeda untuk berinteraksi dengan sistem operasi. Meskipun keduanya dapat digunakan untuk menjalankan perintah, ada beberapa perbedaan antara keduanya.
+
+Command Prompt (CMD) adalah lingkungan baris perintah yang mendasarkan fungsinya pada interpreter perintah Command Prompt. CMD menggunakan perintah dan sintaks berbasis DOS (Disk Operating System) yang digunakan pada sistem operasi Windows sebelumnya. Beberapa perintah yang biasa digunakan di CMD termasuk "dir" untuk melihat daftar file dan folder, "cd" untuk berpindah direktori, dan "ipconfig" untuk menampilkan informasi jaringan.
+
+Sementara itu, Terminal pada Windows 11 adalah alat yang mendukung berbagai shell dan lingkungan baris perintah, termasuk Command Prompt (CMD), PowerShell, dan WSL (Windows Subsystem for Linux). Terminal menyediakan akses ke beberapa shell ini dalam satu antarmuka. Dengan menggunakan Terminal, Anda dapat beralih antara shell yang berbeda sesuai kebutuhan.
+
+Perbedaan dalam perintah yang dapat dijalankan di CMD dan Terminal mungkin disebabkan oleh perbedaan interpreter perintah yang digunakan. Misalnya, perintah "clear" umumnya digunakan untuk membersihkan tampilan konsol di lingkungan Linux, dan di Terminal, Anda mungkin menggunakan shell yang mendukung perintah tersebut, seperti bash. Di CMD, perintah yang sebanding untuk membersihkan tampilan adalah "cls" (clear screen) bukan "clear".
+
+Perlu dicatat bahwa fitur dan fungsionalitas CMD dan Terminal pada Windows 11 terus berkembang, dan ada kemungkinan perubahan di masa depan yang memungkinkan lebih banyak perintah dan keseragaman antara keduanya.
+
+
+
+
+</p>
+
+
 ## Cara Cek Direktory
 ```ssh
 PS D:\asep> pwd
